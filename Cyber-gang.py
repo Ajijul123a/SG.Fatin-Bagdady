@@ -84,8 +84,8 @@ print  """\033[1;97m◭▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 \033[1;97m◭▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰◭"""
 print " \x1b[1;93m======================================================================="
 
-CorrectUsername = "FATIN"
-CorrectPassword = "Cybergang"
+CorrectUsername = "Anisha.Fatin"
+CorrectPassword = "Ismail.Fatin"
 
 loop = 'true'
 while (loop == 'true'):
